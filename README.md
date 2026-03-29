@@ -32,10 +32,10 @@ do suporte técnico ao desenvolvimento de software, um passo de cada vez.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wagner-Silva-Dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-Silva-Dev&layout=compact&theme=tokyonight" />
-</p>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wagner-Silva-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wagner-Silva-Dev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
