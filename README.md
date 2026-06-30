@@ -6,13 +6,14 @@ Estou em transição para o desenvolvimento de software, com foco em Java e cons
 
 📌 Atualmente: estudando Java e construindo projetos práticos
 
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 No trabalho hoje
 
-![Delphi XE](https://img.shields.io/badge/Delphi_XE-EE1F35?style=for-the-badge&logo=delphi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MyDAC](https://img.shields.io/badge/MyDAC-005C84?style=for-the-badge&logoColor=white)
+![Delphi XE](https://img.shields.io/badge/Delphi_XE-EE1F35?style=for-the-badge&logo=delphi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MyDAC](https://img.shields.io/badge/MyDAC-005C84?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 📚 Aprendendo agora
 
@@ -26,9 +27,8 @@ Estou em transição para o desenvolvimento de software, com foco em Java e cons
 
 ## 📊 GitHub Stats
 
-<div align="left">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wagner-Silva-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wagner-Silva-Dev&layout=compact&langs_count=8&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wagner-Silva-Dev&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ---
