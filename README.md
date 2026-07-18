@@ -42,5 +42,3 @@ Estou em transição para o desenvolvimento de software, com foco em Java e cons
 🤝 Aberto a trocar conhecimento, aprender e crescer junto com a comunidade
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnersilvapereira/)
-
-<img src="https://komarev.com/ghpvc/?username=Wagner-Silva-Dev" alt="Profile views" />
